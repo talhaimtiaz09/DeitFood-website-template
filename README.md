@@ -29,5 +29,6 @@ CSS frameworks available:
 * Font Awesome Icons
 * Animations
 
-
+#### How to use ?
+Download the zip file form green-button, on top right, named as Code. Extract the zip file and simply, open index.html file in your browser.
 
