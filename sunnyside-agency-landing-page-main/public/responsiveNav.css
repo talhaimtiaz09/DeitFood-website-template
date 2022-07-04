@@ -1,0 +1,25 @@
+
+ .active{
+   position: absolute;
+   top:0;
+   right: 0;
+   left: 0;
+   bottom: 0;
+   display: flex;
+   flex-direction: column;
+   background-color: rgb(78, 186, 169);
+   padding: 10px;   
+ }
+ .active li{
+   padding: 20px;
+   
+ }
+ .active li:hover{
+   color: rgb(235, 235, 79);
+ }
+ .btn-active{
+   position: absolute;
+   z-index: 9999;
+   top:5px;
+   right: 5px;
+ }
